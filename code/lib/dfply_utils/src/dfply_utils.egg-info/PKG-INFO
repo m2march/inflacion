@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: dfply-utils
+Version: 0.0.1
+Summary: Herramientas para dfply
+Author: March
+Author-email: m2.march@gmail.com
+Requires-Python: >=3.6

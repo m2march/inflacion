@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+src/dfply_utils.egg-info/PKG-INFO
+src/dfply_utils.egg-info/SOURCES.txt
+src/dfply_utils.egg-info/dependency_links.txt
+src/dfply_utils.egg-info/top_level.txt
+src/m2/__init__.py
+src/m2/dfply_utils/__init__.py
